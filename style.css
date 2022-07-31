@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=New+Tegomin&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-attachment: local;
+
+}
+#happy{
+    font-size: 45px;
+    color: rgb(180, 31, 31);
+}
+#poem{
+    font-size: 30px;
+    color: rgb(8, 65, 8);
+    font-weight: boldS;
+}
+div{
+    margin: auto;
+    width: 80%;
+    padding: 2px;
+
+}
+p{
+    font-size: 20px;
+    color:aquamarine;
+    font-family: 'Dancing Script', cursive , Bold;
+}
+h1{
+    font-size: 90px;
+    color: blueviolet;
+}
+#oh{
+    font-size: 45px;
+    color: rgb(113, 60, 171);
+
+}
+#hey{
+    font-size: 30px;
+    color:rgb(78, 188, 189);
+    font-family: 'Dancing Script', cursive , Bold;
+    
+}
+#ha{
+    font-size: 45px;
+    color: rgb(122, 70, 178);
+
+}
+#na{
+    font-size: 45px;
+    color: rgb(107, 63, 154);
+}
+#oo{
+    font-size: 50px;
+    color: rgb(255, 81, 0);
+
+}
+div img{
+    width:45%;
+    height:45%;
+}
